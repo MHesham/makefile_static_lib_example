@@ -1,0 +1,1 @@
+# makefile_static_lib_example
